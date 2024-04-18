@@ -25,6 +25,7 @@ public class Test {
 		List<String> windowHandlesList = new ArrayList<>(allWindows);
 		 driver.switchTo().window(windowHandlesList.get(6));
 		 driver.close();
+		//commit changes
 		
 		
 	}
